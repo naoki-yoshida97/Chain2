@@ -86,3 +86,7 @@ end
 group :production do
   gem 'pg', '0.20.0'
 end
+source 'https://rubygems.org'
+
+gem 'rails',          '5.1.6'
+gem 'bootstrap-sass', '3.3.7'
